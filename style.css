@@ -1,0 +1,21 @@
+ .times{
+     text-align: center;
+    display: flex;
+    
+    justify-content: center;
+    
+} 
+p{
+    padding: 100px;
+    font-size: 50px;
+    font-weight: bolder;
+    border-radius: 50%;
+    border: 15px solid rgba(18, 228, 123, 0.7);
+}
+.paraclass{
+    border-radius: 0%; 
+    border-width: 0;
+    
+    color: navy; 
+    font-size: 30px;
+}
